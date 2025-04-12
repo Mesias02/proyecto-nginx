@@ -120,6 +120,7 @@ Decimo comando docker container run –name web-server detach -d nginx
 
 ## 7. Material de apoyo
 - [Documentación oficial de Docker](https://docs.docker.com/)
+---
   ![image](https://github.com/user-attachments/assets/e34bfa04-dcba-4219-8c77-56c78adb4e96)
   
   
@@ -139,16 +140,17 @@ Instalar Docker Desktop desde [Docker.com](https://www.docker.com/).
 
 Capturas de pantalla esperadas:
 - Figura 1-1: Página del Instituto configurada correctamente.
+---
 - ![Captura de pantalla 2025-04-12 095518](https://github.com/user-attachments/assets/f2dbe529-dffe-4e5c-a8d5-8b610dfefe1f)
-
+---
 - Figura 1-2: Página del estudiante con la información personal actualizada.
+---
 ![Captura de pantalla 2025-04-12 100304](https://github.com/user-attachments/assets/951d545f-fb62-4202-851c-26213832617c)
 
 
 ## 10. Bibliografía
 - Docker, Inc. (2025). Docker Documentation. Recuperado de https://docs.docker.com/
-- 
-- Nginx, Inc. (2025). Nginx Documentation. Recuperado de https://nginx.org/en/docs/
+
 
 
 
