@@ -2,6 +2,8 @@
 
 ## 1. Título
 **Configuración de Servidores Web con Nginx en Docker**
+![image](https://github.com/user-attachments/assets/9d765b1a-781b-4b92-9db0-56f3475b3c77)
+
 
 ---
 
@@ -69,12 +71,12 @@ Decimo comando docker container run –name web-server detach -d nginx
 - Docker Desktop instalado y funcionando correctamente.
 - Conexión a internet para descargar imágenes de Docker.
 - Editor de texto (`nano` o similar) instalado dentro del contenedor.
+  ![Captura de pantalla 2025-04-12 095954](https://github.com/user-attachments/assets/fd1489fa-a4e2-4cb5-ad29-86096687fd77)
 - Guardar cambios en nano
 - Presiona CTRL + X para salir.
 - Escribe Y para confirmar guardar.
 - Presiona Enter para confirmar el nombre.
 - Usa exit para salir del contenedor.
-![Captura de pantalla 2025-04-12 095954](https://github.com/user-attachments/assets/fd1489fa-a4e2-4cb5-ad29-86096687fd77)
 
 
 ---
