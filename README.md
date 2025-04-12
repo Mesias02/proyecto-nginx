@@ -23,9 +23,31 @@ En esta práctica aprenderemos a configurar servidores web utilizando Nginx dent
 ## 4. Conocimientos previos
 Para realizar esta práctica, el estudiante necesita:
 - Conocer comandos básicos de Linux (como `cd`, `ls`, `nano`).
+Primer comando versión
+![image](https://github.com/user-attachments/assets/0b2720a2-5511-4139-8852-aa172847f261) 
+Segundo comando docker pull hello-world
+![image](https://github.com/user-attachments/assets/8e6a3300-3212-42ff-bf15-4b8a587ec456)
+Tercer comando docker images
+![image](https://github.com/user-attachments/assets/73320420-49fc-40be-8a5f-cb04e1f3eb4b)
+Cuarto comando docker image ls
+![image](https://github.com/user-attachments/assets/0ee7b02c-4b5f-46aa-bce6-9776402d9a0c)
+Quinto comando docker container run hello-world
+![image](https://github.com/user-attachments/assets/f5d86da4-4688-4680-9de8-0e7784cc531c)
+Sexto comando docker container ls 
+![image](https://github.com/user-attachments/assets/f51ddb3e-ffc8-439f-ab67-f7ceb890728f)
+Septimo comando docker container ls -a
+![image](https://github.com/user-attachments/assets/cf52e8e9-02de-4a63-8d32-13dac1cea40a)
+Octavo comando docker pull nginx
+![image](https://github.com/user-attachments/assets/36fe2444-40fd-44c8-9193-9fe239036c86)
+![image](https://github.com/user-attachments/assets/0ef5664b-27fb-4ac0-8d6e-0db619c0d883)
+Noveno comando docker container run –name web-server nginx
+![image](https://github.com/user-attachments/assets/bd1b71a0-df0d-494b-b9eb-d588dd006e85)
+Decimo comando docker container run –name web-server detach -d nginx
+![image](https://github.com/user-attachments/assets/8c21252f-1379-4fea-a545-e2ee1e0a8af5)
 - Manejo de navegador web.
 - Uso básico de Docker (CLI o Desktop).
-  
+![image](https://github.com/user-attachments/assets/4e3d2779-67d7-4a3e-9df0-b0631b3ed9b5)
+![image](https://github.com/user-attachments/assets/4ddcd138-c2c1-49b8-b58b-6b5c4124b731)
 
 ---
 
@@ -47,23 +69,30 @@ Para realizar esta práctica, el estudiante necesita:
 - Docker Desktop instalado y funcionando correctamente.
 - Conexión a internet para descargar imágenes de Docker.
 - Editor de texto (`nano` o similar) instalado dentro del contenedor.
+- Guardar cambios en nano
+- Presiona CTRL + X para salir.
+- Escribe Y para confirmar guardar.
+- Presiona Enter para confirmar el nombre.
+- Usa exit para salir del contenedor.
+![Captura de pantalla 2025-04-12 095954](https://github.com/user-attachments/assets/fd1489fa-a4e2-4cb5-ad29-86096687fd77)
+
 
 ---
 
 ## 7. Material de apoyo
 - [Documentación oficial de Docker](https://docs.docker.com/)
-- [Documentación oficial de Nginx](https://nginx.org/en/docs/)
-- Guía de la asignatura proporcionada por el docente.
+  ![image](https://github.com/user-attachments/assets/e34bfa04-dcba-4219-8c77-56c78adb4e96)
+  
+  
 
 ---
 
 ## 8. Procedimiento
 
 ### Paso 1: Descargar Docker y verificar instalación
-1. Instalar Docker Desktop desde [Docker.com](https://www.docker.com/).
-2. Verificar instalación con:
-   ```bash
-   docker --version
+Instalar Docker Desktop desde [Docker.com](https://www.docker.com/).
+
+
 
 ## 9. Resultados esperados
 - Nginx1: Página institucional del Instituto Tecnológico Superior Sudamericano, visualizable en http://localhost:8089.
