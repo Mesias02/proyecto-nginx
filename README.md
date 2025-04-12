@@ -90,9 +90,11 @@ Decimo comando docker container run –name web-server detach -d nginx
 - Implementar dos contenedores Nginx con configuraciones personalizadas:
   - Un contenedor con datos del Instituto Tecnológico Superior Sudamericano (`nginx1`).
   - Un contenedor con datos personales del estudiante (`nginx2`).
+  ---
     ![Captura de pantalla 2025-04-12 080730](https://github.com/user-attachments/assets/60f5f304-570d-49d1-95da-4ee9ee015049)
 
 - Manipular y editar archivos HTML directamente dentro de contenedores.
+---
   ![Captura de pantalla 2025-04-12 094344](https://github.com/user-attachments/assets/e2d7fe73-c507-4e88-a516-6f31860e573a)
   ![Captura de pantalla 2025-04-12 100039](https://github.com/user-attachments/assets/63866971-504d-4d0e-8283-fc437a719b12)
 
@@ -104,7 +106,9 @@ Decimo comando docker container run –name web-server detach -d nginx
 - Docker Desktop instalado y funcionando correctamente.
 - Conexión a internet para descargar imágenes de Docker.
 - Editor de texto (`nano` o similar) instalado dentro del contenedor.
+---
   ![Captura de pantalla 2025-04-12 095954](https://github.com/user-attachments/assets/fd1489fa-a4e2-4cb5-ad29-86096687fd77)
+---
 - Guardar cambios en nano
 - Presiona CTRL + X para salir.
 - Escribe Y para confirmar guardar.
