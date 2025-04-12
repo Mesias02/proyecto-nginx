@@ -18,9 +18,17 @@ En esta práctica aprenderemos a configurar servidores web utilizando Nginx dent
 
 ### Conceptos clave:
 - **Nginx:** Servidor web y proxy inverso.
+---
+![image](https://github.com/user-attachments/assets/dd3bf6ac-0086-4528-be3c-52d8dc2812db)
+---
 - **Docker:** Plataforma para contenedores.
-- **Contenedores:** Instancias ligeras que aíslan aplicaciones y dependencias.
+---
+![image](https://github.com/user-attachments/assets/0368af83-a476-4f5d-aea5-d2dbfbc40a8e)
+---
 
+- **Contenedores:** Instancias ligeras que aíslan aplicaciones y dependencias.
+---
+![image](https://github.com/user-attachments/assets/e0598d4d-07ae-4aa9-82f1-a96e8a6d50ef)
 ---
 
 ## 4. Conocimientos previos
