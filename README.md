@@ -2,6 +2,7 @@
 
 ## 1. Título
 **Configuración de Servidores Web con Nginx en Docker**
+---
 ![image](https://github.com/user-attachments/assets/9d765b1a-781b-4b92-9db0-56f3475b3c77)
 
 
