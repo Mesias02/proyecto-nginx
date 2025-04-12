@@ -65,6 +65,8 @@ Para realizar esta práctica, el estudiante necesita:
 
 Capturas de pantalla esperadas:
 - Figura 1-1: Página del Instituto configurada correctamente.
+- ![Captura de pantalla 2025-04-12 095518](https://github.com/user-attachments/assets/f2dbe529-dffe-4e5c-a8d5-8b610dfefe1f)
+
 - Figura 1-2: Página del estudiante con la información personal actualizada.
 
 
